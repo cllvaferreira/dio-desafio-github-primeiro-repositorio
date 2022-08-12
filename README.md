@@ -4,6 +4,8 @@ Repositório criado para o Desafio de Projeto.
 ## Links úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-### Conteúdo
-Por onde começar? Utilize o link para lhe ajudar a iniciar seu projeto :
-https://docs.github.com/pt/get-started
+## Treinamento GRATUÍTO
+[Utilize esse link para aprender a criar seu projeto :](https://web.dio.me/home)
+
+## Ajuda
+[Comunidade GitHub](https://github.com/topics/comunidade)
