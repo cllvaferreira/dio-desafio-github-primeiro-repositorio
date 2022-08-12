@@ -1,4 +1,1 @@
-Para colocar seu projeto no GitHub, você deverá criar um repositório para ele ser publicado.
-
-Um repositório contém todos os arquivos do seu projeto e o histórico de revisão de cada arquivo.
-
+Link sobre repositórios: https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories
