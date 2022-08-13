@@ -1,4 +1,4 @@
-![Test_1](https://user-images.githubusercontent.com/19312874/184463670-bf38621f-58fa-49fd-aa82-0f748cea8124.png)
+<img src="assets/images/Test_1.png" width="700">
 
 # Desafio de Projeto sobre Git/GitHub da DIO
 Repositório criado para o Desafio de Projeto.
